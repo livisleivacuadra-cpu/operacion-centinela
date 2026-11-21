@@ -55,8 +55,6 @@ Este laboratorio permitió practicar reconocimiento de servicios, análisis de t
 ## Alcance y autoría
 Proyecto académico realizado en equipo, dentro de un laboratorio autorizado y aislado. La aplicación evaluada fue OWASP Juice Shop, diseñada para entrenamiento. Esta documentación resume el trabajo colaborativo y no representa una auditoría profesional de una organización real.
 
-## Evidencias
-Las capturas seleccionadas del informe académico se incorporarán posteriormente, tras revisar su contenido antes de publicarlas.
 ## Evidencias del laboratorio
 
 ### 1. Reconocimiento con Nmap
