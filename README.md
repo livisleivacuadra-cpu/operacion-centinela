@@ -57,3 +57,22 @@ Proyecto académico realizado en equipo, dentro de un laboratorio autorizado y a
 
 ## Evidencias
 Las capturas seleccionadas del informe académico se incorporarán posteriormente, tras revisar su contenido antes de publicarlas.
+## Evidencias del laboratorio
+
+### 1. Reconocimiento con Nmap
+![Escaneo Nmap del puerto TCP 3000](evidencias/01-nmap-puerto-3000.png)
+
+### 2. Análisis HTTP con Burp Suite
+![Solicitud HTTP observada con Burp Suite](evidencias/02-burp-suite-http.png)
+
+### 3. Análisis de tráfico con Wireshark
+![Captura del establecimiento de conexión TCP](evidencias/03-wireshark-trafico-tcp.png)
+
+### 4. Prueba de inyección SQL
+![Resultado de la prueba de autenticación en OWASP Juice Shop](evidencias/04-inyeccion-sql-resultado.png)
+
+### 5. Exposición de documentación
+![Acceso a documento de entrenamiento sin autenticación](evidencias/05-documento-expuesto.png)
+
+### 6. Divulgación de información técnica
+![Mensaje de error con información del servidor](evidencias/06-error-informacion-tecnica.png)
